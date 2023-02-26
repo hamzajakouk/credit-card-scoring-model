@@ -1,2 +1,10 @@
 # credit-card-scoring-model
-This repo contains code and data for a credit card scoring project. Using decision trees and ensemble learning, we build a predictive model to classify customers as high or low risk. The Python code uses popular ML libraries. This project demonstrates best practices for ML and credit risk assessment
+Credit risk scoring is a process that involves evaluating the creditworthiness of individuals or organizations based on their credit history and financial behavior. The goal is to predict the likelihood of a borrower defaulting on a loan or credit card payment. This information can be used by lenders and financial institutions to make more informed decisions about lending money to a particular customer.
+
+In this project, we will use machine learning algorithms to develop a credit risk scoring model that can predict the probability of default for credit card customers. The dataset we will be working with contains information about credit card holders, including demographic information, credit history, and payment patterns.
+
+We will start by cleaning and preparing the data for analysis, which involves handling missing values, encoding categorical variables, and scaling numerical features. Then, we will explore decision tree algorithms and ensemble learning techniques to build a predictive model that can accurately classify credit card customers as high or low risk based on their credit history, financial behavior, and other relevant factors.
+
+We will compare the performance of different models, including decision trees, random forests, and gradient boosting, and use hyperparameter tuning to optimize the parameters of each model. Finally, we will select the best performing model based on evaluation metrics such as accuracy, precision, and recall.
+
+In this project, we aim to demonstrate how machine learning can be used to improve credit risk assessment and help lenders make more informed lending decisions. By developing an accurate predictive model, lenders can minimize the risk of default and provide loans and credit to customers who are most likely to pay them back on time.
