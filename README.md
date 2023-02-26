@@ -1,6 +1,8 @@
 # credit-card-scoring-model
 Credit risk scoring is a process that involves evaluating the creditworthiness of individuals or organizations based on their credit history and financial behavior. The goal is to predict the likelihood of a borrower defaulting on a loan or credit card payment. This information can be used by lenders and financial institutions to make more informed decisions about lending money to a particular customer.
-![credit score](relative/path/to/img.jpg?raw=true "Optional Title")
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/112667482/221435495-b0546b99-07a5-4cb2-8790-f5f9314682e4.jpg" width="50%" height="50%">
+</p>
 
 In this project, we will use machine learning algorithms to develop a credit risk scoring model that can predict the probability of default for credit card customers. The dataset we will be working with contains information about credit card holders, including demographic information, credit history, and payment patterns.
 
